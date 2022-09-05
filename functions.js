@@ -1,0 +1,20 @@
+export var functions = {
+    'forward':'turtle.forward()',
+    'back': 'turtle.back()',
+    'up': 'turtle.up()',
+    'down': 'turtle.down()',
+    'left': 'turtle.left()',
+    'right': 'turtle.right()',
+    'digFront': 'turtle.dig()',
+    'digUp': 'turtle.digUp()',
+    'digDown': 'turtle.digDown',
+    'detect': 'turtle.detect()',
+    'detectUp': 'turtle.detectUp()',
+    'detectDown': 'turtle.detectDown()',
+    'suckFront': 'turtle.suck()',
+    'getFuelLevel': 'turtle.getFuelLevel()',
+    'refuel': 'turtle.refuel()',
+    'inspectFront': 'turtle.inspect()',
+    'inspectUp': 'turtle.inspectUp()',
+    'inspectDown': 'turtle.inspectUp()'
+    }
