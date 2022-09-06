@@ -1,0 +1,6 @@
+turtle.back()
+turtle.back()
+turtle.back()
+turtle.down()
+turtle.down()
+turtle.down()

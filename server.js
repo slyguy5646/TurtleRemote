@@ -7,7 +7,7 @@ wss.on('connection', function connection(ws) {
   ws.on('message', function message(data) {
     console.log('received: %s', data);
   });
-  var cmdToSend = functions['up'];
+  var cmdToSend = functions['detect'];
   ws.send(cmdToSend);
   console.log('Told turtle to: ' + cmdToSend);
 });
