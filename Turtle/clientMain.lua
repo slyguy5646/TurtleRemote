@@ -1,4 +1,4 @@
-local url = "wss://"
+local url = "wss://a604-2600-4040-2d70-c900-edde-f3ee-d742-1c13.ngrok.io"
 local ws,err = http.websocket(url)
 print(ws)
 
